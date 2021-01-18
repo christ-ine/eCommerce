@@ -2,7 +2,17 @@
 
 ## Overview
 
+https://myshop42.herokuapp.com/
+
 This application serves as an fully functioning eCommerce website. Users can browse products, create profiles, purchase products using paypal or thei debit and credit cards, and leave reviews. Admins can can add or remove products, manage users, and manage orders. 
+
+## Table of Contents
+    
+* [UserStory](#UserStory)
+* [Usage](#usage)
+* [ScreenShots](#Screenshots)
+* [License](#license)
+* [Badges](#badges)
 
 ## User Story
 AS an online shop owner
@@ -16,7 +26,18 @@ The user is presented with the home page where they can browse through products,
 
 Admins of the application have the ability to add, delete, and update products. They can also manage users and orders. When an order has been fulfilled and the customer has paid, the admin will have the ability to mark an order as 'out for delivery' to update the customer.
 
+## Screenshots
 
+![Home Page](screenshots/HomePage.png "Home page")
+![Product Page](screenshots/ProductPage.png "Product Page displaying product info and reviews")
+![Cart](screenshots/Cart.png "User cart")
+![Order Page](screenshots/Order.png "Order Page" )
+![Payment](screenshots/Payment.png "Payment Page")
+![User Profile](screenshots/UserProfile.png "User profile")
+![Admin Edit or Add Product](screenshots/AdminEditorAddProduct.png "Page where admin can adit or add products")
+![Admin Manage Orders](screenshots/AdminManageOrders.png "Admin manage orders" )
+![Admin Manage Products](screenshots/AdminManagepProducts.png "Admin manage products")
+![Admin Manage Users](screenshots/AdminManageUsers.png "Admin manage users")
 
 ## License
     
