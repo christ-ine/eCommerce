@@ -30,6 +30,8 @@ Admins of the application have the ability to add, delete, and update products. 
 
 ![Home Page](screenshots/HomePage.png "Home page")
 ![Product Page](screenshots/ProductPage.png "Product Page displaying product info and reviews")
+![Login](screenshots/Login.png "Login")
+![Register](screenshots/Register.png "Register")
 ![Cart](screenshots/Cart.png "User cart")
 ![Order Page](screenshots/Order.png "Order Page" )
 ![Payment](screenshots/Payment.png "Payment Page")
